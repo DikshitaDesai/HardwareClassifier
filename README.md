@@ -9,3 +9,5 @@ The i.MX 7Dual delivers high-performance processing for low-power requirements w
 <img src = "images/stand.jpg">
 <h3>Final Inventory Connections</h3>
 <img src="images/final_result.png">
+<h3>OUTPUT</h3>
+<img src="images/dikshita.jpg">
